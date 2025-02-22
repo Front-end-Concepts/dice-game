@@ -1,2 +1,2 @@
-# dice-game
-Basic dice game using DOM Manipulations
+# dice-game-js
+A basic dice game made with DOM manipulations
